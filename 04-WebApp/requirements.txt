@@ -1,4 +1,5 @@
 altair==4.2.0
+cmake
 dlib==19.24.0
 Flask==1.1.2
 imutils==0.5.4
