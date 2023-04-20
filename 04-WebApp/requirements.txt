@@ -18,7 +18,7 @@ seaborn
 scikit-learn
 dill
 keras
-wordcloud
+cv2
 numpy
 pandas
 time
